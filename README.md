@@ -1,2 +1,2 @@
-# E-C-web
+# E-commerce website
 E-C like shopee, lazada,...
